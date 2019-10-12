@@ -1,7 +1,7 @@
 # CM_Project_Proposal
 
 ## Objectives
-The objective of my final project is to compare hourly precipitation amounts from 1990 to 2010 between the Southern Coal Fields region of West Virginia and the Valley and Ridge region. Landslides are more prevalent in the southern parts of West Virginia compared to the north and I want to see if differences in precipitation amounts is a factor. 
+The objective of my final project is to compare hourly precipitation amounts from 1990 to 2010 between the Southern Coal Fields region of West Virginia and the Valley and Ridge region. Landslides are more prevalent in the southern parts of West Virginia compared to the north and I want to see if differences in precipitation amounts are a factor. 
 
 ## Data Sources
 [Hourly/Sub-Hourly Observational Data Map](https://gis.ncdc.noaa.gov/maps/ncei/cdo/hourly?layers=001)
